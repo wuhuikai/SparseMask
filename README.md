@@ -1,5 +1,5 @@
 # SparseMask: Differentiable Connectivity Learning for Dense Image Prediction
-[[Project]](http://wuhuikai.me/SparseMask/)    [[Paper]](http://wuhuikai.me/SparseMask/sparse_mask.pdf)    [[arXiv]](https://arxiv.org/abs/1904.07642)    [[Home]](http://wuhuikai.me)
+[[Project]](http://wuhuikai.me/SparseMask/)    [[Paper]](http://wuhuikai.me/SparseMask/sparse_mask.pdf)    [[arXiv]](https://arxiv.org/abs/1904.07642)    [[Home]](http://wuhuikai.me)    [[AWESOME NAS]](awesome_nas.md)
 
 Official implementation of **SparseMask: Differentiable Connectivity Learning for Dense Image Prediction**.
 Automatically design the connectivity structure for dense image prediction tasks, achieving **better** fusion of multi-scale feature maps.
