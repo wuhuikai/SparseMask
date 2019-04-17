@@ -1,5 +1,5 @@
 # SparseMask: Differentiable Connectivity Learning for Dense Image Prediction
-[[Project]](http://wuhuikai.me/SparseMask/)    [[Paper]](http://wuhuikai.me/SparseMask/sparse_mask.pdf)    [[arXiv]]()    [[Home]](http://wuhuikai.me)
+[[Project]](http://wuhuikai.me/SparseMask/)    [[Paper]](http://wuhuikai.me/SparseMask/sparse_mask.pdf)    [[arXiv]](https://arxiv.org/abs/1904.07642)    [[Home]](http://wuhuikai.me)
 
 Official implementation of **SparseMask: Differentiable Connectivity Learning for Dense Image Prediction**.
 Automatically design the connectivity structure for dense image prediction tasks, achieving **better** fusion of multi-scale feature maps.
@@ -7,7 +7,7 @@ Automatically design the connectivity structure for dense image prediction tasks
 @inproceedings{wu2019sparsemask,
   title     = {SparseMask: Differentiable Connectivity Learning for Dense Image Prediction},
   author    = {Wu, Huikai and Zhang, Junge and Huang, Kaiqi},
-  booktitle = {arXiv},
+  booktitle = {arXiv preprint arXiv:1904.07642},
   year = {2019}
 }
 ```
